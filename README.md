@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Minseo Lee. I am currently a Junior @ Louisiana State University pursuing a B.S. in Computer Science, Software Engineering.<br><br>- 🔭 I’m working for __________<br>- 📚 I'm currently learning and polishing my skills on Web Development using React<br>- ⚡ In my free time I like to create games on Roblox using Lua, and develop personal Discord Bots using Python</p>
+<p align="left">I'm Minseo Lee. I am currently a Junior @ Louisiana State University pursuing a B.S. in Computer Science, Software Engineering.<br><br>- 🔭 I’m working for __________<br>- 📚 I'm currently learning and polishing my skills on Web Development using React<br>- ⚡ In my free time I like to create games on Roblox using Lua, and Work on random side projects for fun</p>
 
 ###
 
